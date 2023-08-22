@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Threads are designed to encourage CSS members to specialise and continue refining their skills in one area over many weeks. In contrast to most past lectures, we actually want CSS members to **learn things**, as part of a broader effort towards making CSS a training hub instead of a theatre. 
+Threads are designed to encourage CSS members to specialise and continue refining their skills in one area over many weeks. In contrast to most past activities, we actually want CSS members to **get better at CS**, as part of a broader effort towards making CSS a learning, training, and collaboration hub instead of a theatre. 
 
 Threads run after every CSS session on Thursdays for 30-45 minutes (depending on the length of the lecture before it), and will consistently be led by a few boys. There may be multiple threads, and there may only be 1-2 people attending each — but that’s OK. We are interested in quantity for lectures, but in threads, we focus on quality.
 
