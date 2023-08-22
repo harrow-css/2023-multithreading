@@ -21,15 +21,15 @@ To make multithreading work, we need multiple threads 🙄. So if you have a str
 It's easy to get started:
 1. Send an abstract to [Vincent](mailto:19songy@harrowschool.org.uk) by **Aug 28, 2023** (or make a pull request here)
 2. We'll give you some feedback and ideas
-3. Come up with your thread proposal (including session structure and syllabus) by **Sep 4, 2023**.
-4. We'll include your thread when announcing multithreading at the start of term!
+3. Come up with your thread proposal (including session structure and syllabus) by **Sep 4, 2023**
+4. We'll include your thread when announcing multithreading at the start of term
 
 For what an abstract or a thread proposal should look like, you may refer to the [CP Thread](cp/README.md) that is currently under construction. We also made a [thread proposal template](thread-proposal-template.md) to help you get started.
 
 ## Important Dates
 
-**Abstract Deadline: Aug 28, 2023**
-**Thread Proposal Deadline: Sep 4, 2023**
+- **Abstract Deadline: Aug 28, 2023**
+- **Thread Proposal Deadline: Sep 4, 2023**
 
 ## Thread Criteria
 
