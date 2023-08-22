@@ -3,8 +3,8 @@
 **Table of Contents**
 * [Abstract](#abstract)
 * [Targets](#targets)
-* [Session Structure](#thread-structure)
-* [Thread Syllabus](#syllabus)
+* [Session Structure](#session-structure)
+* [Thread Syllabus](#thread-syllabus)
 
 ## Abstract
 
@@ -40,6 +40,6 @@ The competitive programming thread aims to offer a 10-week, rigorous introductio
 
 ## Session Structure
 
-Each session is motivated by one CP problem, and subsequently covers requisite theoretical concepts. A complete solution is left as an extension exercise, although approaches and opinions will be discussed during the thread. A list of extension reading will be provided.
+Each session is motivated by one CP problem and subsequently covers requisite theoretical concepts. A complete solution is left as an extension exercise, although approaches and opinions will be discussed during the thread. A list of extension readings will be provided.
 
 ## Thread Syllabus
