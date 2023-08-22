@@ -1,5 +1,7 @@
 # CP Thread
 
+_Proposed by Andrew Park & Vincent Song_
+
 **Table of Contents**
 * [Abstract](#abstract)
 * [Targets](#targets)
