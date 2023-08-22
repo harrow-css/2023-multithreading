@@ -2,6 +2,7 @@
 
 **Table of Contents**
 * [Introduction](#introduction)
+* [Getting Started](#getting-started)
 * [Important Dates](#important-dates)
 * [Thread Criteria](#thread-criteria)
 * [Proposed Threads](#proposed-threads)
@@ -13,9 +14,22 @@ Threads are designed to encourage CSS members to specialise and continue refinin
 
 Threads run after every CSS session on Thursdays for 30-45 minutes (depending on the length of the lecture before it), and will consistently be led by a few boys. There may be multiple threads, and there may only be 1-2 people attending each — but that’s OK. We are interested in quantity for lectures, but in threads, we focus on quality.
 
+## Getting Started
+
+To make multithreading work, we need multiple threads 🙄. So if you have a strong interest in something CS-related, please run a thread!! It's a great chance to share what you love with other people, and will of course be worth bytes (the exact reward scheme is under discussion). We need as many talented people helping out as possible!
+
+It's easy to get started:
+1. Send an abstract to [Vincent](mailto:19songy@harrowschool.org.uk) by **Aug 28, 2023** (or make a pull request here)
+2. We'll give you some feedback and ideas
+3. Come up with your thread proposal (including session structure and syllabus) by **Sep 4, 2023**. Send it to Vincent (or make a pull request here).
+4. We'll include your thread when announcing multithreading at the start of term!
+
+For what an abstract or a thread proposal should look like, you may refer to the [CP Thread](#cp/README.md) that is currently under construction. We also made a [thread proposal template](thread-proposal-template.md) to help you get started.
+
 ## Important Dates
 
-**Thread Proposal Deadline: Sep 2, 2023**
+**Abstract Deadline: Aug 28, 2023**
+**Thread Proposal Deadline: Sep 4, 2023**
 
 ## Thread Criteria
 
