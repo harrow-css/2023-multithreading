@@ -10,7 +10,7 @@ _Proposed by Andrew Park & Vincent Song_
 
 ## Abstract
 
-The competitive programming thread aims to offer a 10-week, rigorous introduction to the design and analysis of algorithms, similar in level to an introductory undergraduate course. The ultimate aim of the thread is to better prepare attendees (and threads!) for the British Informatics Olympiad and CS interview questions at universities.
+> The competitive programming thread aims to offer a 10-week, rigorous introduction to the design and analysis of algorithms, similar in level to an introductory undergraduate course. The ultimate aim of the thread is to better prepare attendees (and threads!) for the British Informatics Olympiad and CS interview questions at universities.
 
 ## Targets
 
