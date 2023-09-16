@@ -12,7 +12,11 @@
 
 Threads are designed to encourage CSS members to specialise and continue refining their skills in one area over many weeks. In contrast to most past activities, we actually want CSS members to **get better at CS**, as part of a broader effort towards making CSS a learning, training, and collaboration hub instead of a theatre. 
 
-Threads run after every CSS session on Thursdays for 30-45 minutes (depending on the length of the lecture before it), and will consistently be led by a few boys. There may be multiple threads, and there may only be 1-2 people attending each — but that’s OK. We are interested in quantity for lectures, but in threads, we focus on quality.
+Threads run after every CSS session on Thursdays for 20-30 minutes (depending on the length of the lecture before it), and will consistently be led by a few boys. There may be multiple threads, and there may only be 1-2 people attending each — but that’s OK. We are interested in quantity for lectures, but in threads, we focus on quality.
+
+For days with lectures, threads run from 5.30-6pm.
+
+For days without lectures, threads run from 5-5.30pm.
 
 ## Getting Started
 
@@ -54,3 +58,8 @@ In terms of practicalities, we are primarily looking for threads that are:
 _Proposed by Andrew Park & Vincent Song_
 
 > The competitive programming thread aims to offer a 10-week, rigorous introduction to the design and analysis of algorithms, similar in level to an introductory undergraduate course. The ultimate aim of the thread is to better prepare attendees (and threads!) for the British Informatics Olympiad and CS interview questions at universities.
+
+### [AI Thread](ai/README.md)
+_Proposed by Vincent Song_
+
+> The AI Thread takes a joint practical and theoretical approach to cover modern techniques of deep learning. It aims to get participants ready to develop their own AI projects!
