@@ -2,18 +2,14 @@
 
 _Vincent Song_
 
-**Table of Contents**
-* [Abstract](#abstract)
-* [Targets](#targets)
-* [Session Structure](#session-structure)
-* [Syllabus](#syllabus)
-
 ## Abstract
 
 > The AI Thread takes a joint practical and theoretical approach to cover modern techniques of deep learning. It aims to get participants ready to develop their own AI projects!
 
+<br/><br/>
+
 <details>
-<summary>Thread Targets</summary>
+<summary>**Targets**</summary>
 
 ## Targets
 
@@ -45,12 +41,17 @@ _Vincent Song_
   
 </details>
 
+<details>
+<summary>**Session Structure**</summary>    
+
 ## Session Structure
 
 Each session introduces a theoretical concept, usually followed by a practical demonstration that requires attendees to complete some code.
 
+</details>
+
 <details>
-<summary>Thread Syllabus</summary>
+<summary>**Syllabus**</summary>
 
 ## Syllabus
 
@@ -89,7 +90,7 @@ Each session introduces a theoretical concept, usually followed by a practical d
 ### Week 7: AI Project
 - `Project`: Make your own AI project with help from Vincent!
 
-</details>
-
 ### Week 8: Project Showcase
 - Sharing session for all our projects
+
+</details>
