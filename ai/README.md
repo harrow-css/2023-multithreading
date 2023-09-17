@@ -1,6 +1,8 @@
 # Artificial Intelligence Thread
-
-_Vincent Song_
+```
+Proposed by: Vincent Song
+Location: TBC
+```
 
 **Table of Contents**
 * [Abstract](#abstract)
