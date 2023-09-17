@@ -3,7 +3,7 @@
 **Table of Contents**
 * [Introduction](#introduction)
 * [Logistics](#logistics)
-* [Current Threads](#proposed-threads)
+* [Current Threads](#current-threads)
     * [Competitive Programming](#cp-thread)
     * [Artificial Intelligence](#ai-thread)
     * [Fast Fourier Transform](#fft-thread)
