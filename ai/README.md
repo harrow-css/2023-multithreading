@@ -1,4 +1,4 @@
-# AI Thread
+# Artificial Intelligence Thread
 
 _Vincent Song_
 
