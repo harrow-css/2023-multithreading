@@ -1,5 +1,7 @@
 # CSS Multithreading Sessions
 
+**Quick Links**: [CP Thread Homepage](cp/README.md) | [AI Thread Homepage](ai/README.md) | [FFT Thread Homepage](fft/README.md)
+
 **Table of Contents**
 * [Introduction](#introduction)
 * [Logistics](#logistics)
