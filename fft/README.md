@@ -1,4 +1,4 @@
-# FFT stuff
+# Fast Fourier Transform Thread
 
 _Proposed by Alex Yi_
 
@@ -10,7 +10,7 @@ _Proposed by Alex Yi_
 
 ## Abstract
 
-> It's used sooo much everywhere and you should definitely have a brief understanding of it. 
+> Fast FOurier Transforms are used sooo much everywhere and you should definitely have a brief understanding of it. 
 
 ## Targets
 - Be able to perform FFT on data (with Python)
