@@ -1,4 +1,4 @@
-# CP Thread
+# Competitive Programming Thread
 
 _Proposed by Andrew Park & Vincent Song_
 
