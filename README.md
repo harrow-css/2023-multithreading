@@ -1,17 +1,19 @@
-# 2023 Autumn: CSS Multithreading Sessions
+# CSS Multithreading Sessions
 
 **Table of Contents**
 * [Introduction](#introduction)
 * [Logistics](#logistics)
-* [Current Threads](#current-threads)
-    * [Competitive Programming](#cp-thread)
-    * [Artificial Intelligence](#ai-thread)
-    * [Fast Fourier Transform](#fft-thread)
- * [Starting your own thread](#getting-started)
+* [List of Current Threads](#current-threads)
+* [Starting your Own Thread](#getting-started)
 
 ## Introduction
 
-Threads are designed to **give you the best value for your time**. They encourage CSS members to specialise and continue refining their skills in one area over many weeks. We designed threads as part of a broader effort towards making CSS a learning, training, and collaboration hub, where you can actually engage with topics in a meaningful way and pick up knowledge that's useful for your own projects and futures.
+CSS Multithreading is designed to **give you the best value for your time**. It encourages CSS members to specialise and continue refining their skills in one area over many weeks. We designed Multithreading as part of a broader effort towards making CSS a learning, training, and collaboration hub, where you can actually engage with topics in a meaningful way and pick up knowledge that's useful for your own projects and futures.
+
+The Multithreading program consists of multiple 'threads' running simultaneously on Thursdays. Each 'thread' goes in-depth about a particular CS topic. For the Autumn 2023 term, we are running the following threads:
+* [Competitive Programming](#cp-thread)
+* [Artificial Intelligence](#ai-thread)
+* [Fast Fourier Transform](#fft-thread)
 
 ## Logistics
 Threads run during every CSS session on Thursdays:
