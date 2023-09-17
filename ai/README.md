@@ -1,4 +1,5 @@
 # Artificial Intelligence Thread
+
 ```
 Proposed by: Vincent Song
 Location: TBC
