@@ -2,14 +2,15 @@
 
 _Vincent Song_
 
+**Table of Contents**
+* [Abstract](#abstract)
+* [Targets](#targets)
+* [Session Structure](#session-structure)
+* [Thread Syllabus](#thread-syllabus)
+
 ## Abstract
 
 > The AI Thread takes a joint practical and theoretical approach to cover modern techniques of deep learning. It aims to get participants ready to develop their own AI projects!
-
-<br/><br/>
-
-<details>
-<summary>**Targets**</summary>
 
 ## Targets
 
@@ -38,22 +39,12 @@ _Vincent Song_
 - `torch.autograd`
 - `torch.utils.data`
 - `torch.optim`
-  
-</details>
-
-<details>
-<summary>**Session Structure**</summary>    
 
 ## Session Structure
 
 Each session introduces a theoretical concept, usually followed by a practical demonstration that requires attendees to complete some code.
 
-</details>
-
-<details>
-<summary>**Syllabus**</summary>
-
-## Syllabus
+## Thread Syllabus
 
 ### Week 1: Introduction
 - What is deep learning?
@@ -92,5 +83,3 @@ Each session introduces a theoretical concept, usually followed by a practical d
 
 ### Week 8: Project Showcase
 - Sharing session for all our projects
-
-</details>
