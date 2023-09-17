@@ -1,6 +1,9 @@
 # Fast Fourier Transform Thread
 
-_Proposed by Alex Yi_
+```
+Proposed by: Alex Yi
+Location: TBC
+```
 
 **Table of Contents**
 * [Abstract](#abstract)
