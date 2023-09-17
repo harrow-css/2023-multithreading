@@ -1,6 +1,9 @@
 # Competitive Programming Thread
 
-_Proposed by Andrew Park & Vincent Song_
+```
+Proposed by: Andrew Park & Vincent Song
+Location: TBC
+```
 
 **Table of Contents**
 * [Abstract](#abstract)
