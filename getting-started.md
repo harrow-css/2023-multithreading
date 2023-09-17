@@ -1,5 +1,7 @@
 # Getting Started with Running a Thread
 
+> Thread proposals for Autumn 2023 have ended. Details will be updated when the call for Spring 2024 threads starts mid-November.
+
 **Table of Contents**
 * [Introduction](#introduction)
 * [Important Dates](#important-dates)
