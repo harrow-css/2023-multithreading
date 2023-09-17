@@ -20,28 +20,99 @@ _Proposed by Andrew Park & Vincent Song_
 
 ### Technical Goals
 
-**Algorithms**
-
+**Search Algorithms**
+- Binary Search
 - Recursion
-- Dynamic programming
-- Graph algorithms
-- …
+- Bitmask 
 
-**Data Structures**
+**Graph Algorithms**
+- Breadth-First Search
+- Depth-First Search
+- Dijkstra's Algorithm
+- Bellman-Ford Algorithm
+- Floyd-Warshall Algorithm
 
-- Heaps
-- Linked lists
-- Hash maps
-- …
-
-**C++**
-
-- Basics
-- STL
-- …
+**Thinking Computationally**
+- Data Structures
+- Dynamic Programming
+- Amortized Analysis
 
 ## Session Structure
 
 Each session is motivated by one CP problem and subsequently covers requisite theoretical concepts. A complete solution is left as an extension exercise, although approaches and opinions will be discussed during the thread. A list of extension readings will be provided.
 
 ## Thread Syllabus
+
+### Week 1 - Data Structures + Binary Search 
+
+**Dynamic Arrays** 
+  - Vectors
+  - Iterators and Ranges
+  - Other Structures
+    
+**Set Structures**
+  - Sets and Multisets
+  - Maps
+  - Priority Queues
+
+**Useful tips** 
+  - Set Versus Sorting
+  - Map Versus Array
+  - Priority Queue Versus Multiset
+
+### Week 2 - Time Complexity 
+  - Calculation Rules
+  - Common Time Complexity
+  - Estimating Efficiency
+
+### Week 3 - Complete Search   
+**Recursive Algorithms**
+- Generating Subsets & Permutations
+- Backtracking
+
+**Bit Manipulation** 
+- Bit Operations
+- Bitmasks
+
+### Week 4 - Graphs 
+**Basics of Graphs** 
+- Graph Terminology
+- Graph Representation
+
+**Graph Traverasal** 
+- Depth-First Search
+- Breadth-First Search
+
+### Week 5 - Graphs 2
+**Shortest Path Algorithm** 
+- Bellman-Ford ALgorithm
+- Dijkstra's Algorithm
+- Floyd-Warshall Algorithm
+
+### Week 6 - Dynamic Programming 
+**Basic Concepts** 
+- When to and not to use DP
+
+### Week 7 - Dynamic Programming 2 
+**Types** 
+- LIS
+- Counting DP
+- Knapsack DP
+- Paths DP
+- Range DP 
+- Bitmask DP
+
+### Week 8 - Range Queries 
+- Sum Queries
+- Minimum Queries
+- Tree Structures
+
+### Week 9 - Amortised Analysis
+- Two Pointers Method
+- Sliding Window Minimum
+- Nearest Smaller Element
+- Meet In The Middle 
+
+### Week 10 - Practice Session + Tips/Resources 
+- Definitely come to this one! 
+
