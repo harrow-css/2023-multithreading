@@ -2,7 +2,9 @@
 
 ```
 Proposed by: Vincent Song
-Location: TBC
+Location: Physics Schools 2
+Time: Thursdays 5-5.30pm (without CSS lecture) / 5.30-6pm (with CSS lecture)
+To-bring: Surface, pen, paper
 ```
 
 **Table of Contents**
