@@ -85,6 +85,7 @@ Each session introduces a theoretical concept, usually followed by a practical d
 
 ### Week 7: AI Project
 - `Project`: Make your own AI project with help from Vincent!
+- `John Yap`: AI beyond ChatGPT
 
 ### Week 8: Project Showcase
 - Sharing session for all our projects
