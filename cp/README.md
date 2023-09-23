@@ -48,6 +48,10 @@ Each session is motivated by one CP problem and subsequently covers requisite th
 
 ### Week 1 - Data Structures + Binary Search 
 
+Powerpoint can be found at https://shorturl.at/qxzKW
+
+If you want my solutions to any of the questions, email 20Parks@harrowschool.org.uk
+
 **Dynamic Arrays** 
   - Vectors
   - Iterators and Ranges
