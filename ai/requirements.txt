@@ -1,0 +1,12 @@
+tqdm
+numpy
+scipy
+sympy
+seaborn
+matplotlib
+opencv-python
+torch
+torchvision
+torchaudio
+ipykernel
+jupyterlab
