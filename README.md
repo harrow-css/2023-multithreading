@@ -25,6 +25,8 @@ Threads run during every CSS session on Thursdays:
 
 Threads are 20-30 minutes in length, and consist of around 8 sessions spread out over multiple weeks. 
 
+Completing a thread to a satisfactory level (at the discretion of the boy running the thread) earns you 3.5 bytes (28 bits). Running a thread earns you 5 bytes (40 bits).
+
 ## Getting Started
 
 > Thread proposals for Spring 2024 are open until Dec 03, 2023!
