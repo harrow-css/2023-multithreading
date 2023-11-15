@@ -1,6 +1,6 @@
 # Getting Started with Running a Thread
 
-> Thread proposals for Autumn 2023 have ended. Details will be updated when the call for Spring 2024 threads starts mid-November.
+> Thread proposals for Spring 2024 are open until Dec 03, 2023!
 
 **Table of Contents**
 * [Introduction](#introduction)
@@ -9,20 +9,20 @@
 
 ## Introduction
 
-To make multithreading work, we need multiple threads 🙄. So if you have a strong interest in something CS-related, please run a thread!! It's a great chance to share what you love with other people, and will of course be worth bytes (the exact reward scheme is under discussion). We need as many talented people helping out as possible!
+To make multithreading work, we need multiple threads 🙄. So if you have a strong interest in something CS-related, please run a thread!! It's a great chance to share what you love with other people, and we need as many talented people helping out as possible! It will also earn you 5 bytes (40 bits).
 
-It's easy to get started:
-1. Send an abstract to [Vincent](mailto:19songy@harrowschool.org.uk) by **Aug 28, 2023** (or make a pull request here)
+To get started:
+1. Send a _thread abstract_ (see below) to [Vincent](mailto:19songy@harrowschool.org.uk) by **Dec 03, 2023**
 2. We'll give you some feedback and ideas
-3. Come up with your thread proposal (including session structure and syllabus) by **Sep 4, 2023**
-4. We'll include your thread when announcing multithreading at the start of term
+3. Come up with your _thread proposal_ (see below; includes session structure and syllabus) by **Dec 08, 2023**
+4. We'll include your thread when announcing multithreading at the start of Spring Term
 
-For what an abstract or a thread proposal should look like, you may refer to the [CP Thread](cp/README.md). We also made a [thread proposal template](thread-proposal-template.md) to help you get started.
+For what a _thread abstract_ and a _thread proposal_ should look like, refer to the [AI Thread](ai/README.md). We also made a [thread proposal template](thread-proposal-template.md) to help you get started!
 
 ## Important Dates
 
-- **Abstract Deadline: Aug 28, 2023**
-- **Thread Proposal Deadline: Sep 4, 2023**
+- **Abstract Deadline: Dec 03, 2023**
+- **Thread Proposal Deadline: Dec 08, 2023**
 
 ## Thread Criteria
 
