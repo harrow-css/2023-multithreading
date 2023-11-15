@@ -25,6 +25,12 @@ Threads run during every CSS session on Thursdays:
 
 Threads are 20-30 minutes in length, and consist of around 8 sessions spread out over multiple weeks. 
 
+## Getting Started
+
+> Thread proposals for Spring 2024 are open until Dec 03, 2023!
+
+If you have a deep interest in a particular area of computer science and would like to share your knowledge, we encourage you to start a thread too! Please refer to [getting-started.md](getting-started.md) for detailed instructions. 
+
 ## Current Threads
 
 ### [CP Thread](cp/README.md)
@@ -41,9 +47,3 @@ _Proposed by Vincent Song_
 _Proposed by Alex Yi_
 
 > Fast Fourier Transforms are used sooo much everywhere and you should definitely have a brief understanding of it.
-
-## Getting Started
-
-> Thread proposals for Autumn 2023 have ended. Details will be updated when the call for Spring 2024 threads starts mid-November.
-
-If you have a deep interest in a particular area of computer science and would like to share your knowledge, we encourage you to start a thread too! Please refer to [getting-started.md](getting-started.md) for detailed instructions. 
